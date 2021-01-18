@@ -7,11 +7,11 @@ Simple wikipedia scraping use python
 
 ### Installation
 
-  • apt update && apt upgrade
-  • apt install git
-  • apt install python
-  • git clone https://github.com/wiki_scrap
-  • cd wiki_scrap
-  • pip install requests
-  • pip install bs4
-  • python wiki.py
+- apt update && apt upgrade
+- apt install git
+- apt install python
+- git clone https://github.com/wiki_scrap
+- cd wiki_scrap
+- pip install requests
+- pip install bs4
+- python wiki.py
