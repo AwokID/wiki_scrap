@@ -3,7 +3,7 @@
 Simple wikipedia scraping use python
 
 ### Screenshots
-<img src="https://b.top4top.io/p_1843ysbf60.png">
+<img src="demo.png">
 
 ### Installation
 
